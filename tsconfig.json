@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "baseUrl": "./src",
+    "lib": [
+      "ES2015", "DOM"
+    ]
+  }
+}
